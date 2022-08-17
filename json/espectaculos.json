@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "tipo": "PELICULA",
+    "nombre": "Volver al Futuro",
+    "lugar": "Cine Ocho",
+    "precio": 500,
+    "stockEntradas": 100,
+    "imagen": "https://res.cloudinary.com/togno43/image/upload/v1653920785/togno43/5KE6Z77HVFH4XGI6COOOISOJZU_dgv8kd.jpg"
+  },
+  {
+    "id": 2,
+    "tipo": "TEATRO",
+    "nombre": "Romeo y Julieta",
+    "lugar": "Teatro Colón",
+    "precio": 2000,
+    "stockEntradas": 450,
+    "imagen": "https://res.cloudinary.com/togno43/image/upload/v1653921201/togno43/descarga_riztv6.jpg"
+  },
+  {
+    "id": 3,
+    "tipo": "RECITAL",
+    "nombre": "Rata Blanca",
+    "lugar": "Teatro Gran Rex",
+    "precio": 2500,
+    "stockEntradas": 150,
+    "imagen": "https://res.cloudinary.com/togno43/image/upload/v1653920533/togno43/ab6761610000e5eb0fdc6591a83878c28bff39c9_gc8oar.jpg"
+  },
+  {
+    "id": 4,
+    "tipo": "TEATRO",
+    "nombre": "Entre Ella y Yo",
+    "lugar": "Teatro Opera",
+    "precio": 900,
+    "stockEntradas": 450,
+    "imagen": "https://res.cloudinary.com/togno43/image/upload/v1653921277/togno43/entre-ella-y-yo__aqtqbq.jpg"
+  },
+  {
+    "id": 5,
+    "tipo": "PELICULA",
+    "nombre": "Cruella",
+    "lugar": "Cinema Paradiso",
+    "precio": 600,
+    "stockEntradas": 200,
+    "imagen": "https://res.cloudinary.com/togno43/image/upload/v1653921327/togno43/image_7ff71125_tuvfam.jpg"
+  },
+  {
+    "id": 6,
+    "tipo": "RECITAL",
+    "nombre": "Soda stereo",
+    "lugar": "Estadio River plate",
+    "precio": 4000,
+    "stockEntradas": 250,
+    "imagen": "https://res.cloudinary.com/togno43/image/upload/v1653921391/togno43/descarga_1_okbskc.jpg"
+  },
+  {
+    "id": 7,
+    "tipo": "TEATRO",
+    "nombre": "Ay Amor Divino",
+    "lugar": "Teatro Cervantes",
+    "precio": 1500,
+    "stockEntradas": 200,
+    "imagen": "https://res.cloudinary.com/togno43/image/upload/v1653921467/togno43/13985_vetudb.jpg"
+  },
+  {
+    "id": 8,
+    "tipo": "PELICULA",
+    "nombre": "Space Jam",
+    "lugar": "Cine San Martín",
+    "precio": 800,
+    "stockEntradas": 300,
+    "imagen": "https://res.cloudinary.com/togno43/image/upload/v1653921540/togno43/space-jam-poster_vnci6o.jpg"
+  },
+  {
+    "id": 9,
+    "tipo": "RECITAL",
+    "nombre": "Divididos",
+    "lugar": "Teatro Flores",
+    "precio": 2300,
+    "stockEntradas": 250,
+    "imagen": "https://res.cloudinary.com/togno43/image/upload/v1653921600/togno43/Divididos-OtrasYerbasRock_c0qq1g.jpg"
+  },
+  {
+    "id": 10,
+    "tipo": "TEATRO",
+    "nombre": "Drácula",
+    "lugar": "Teatro Gran Rivadavia",
+    "precio": 1000,
+    "stockEntradas": 450,
+    "imagen": "https://res.cloudinary.com/togno43/image/upload/v1653921647/togno43/descarga_2_a713oz.jpg"
+  },
+  {
+    "id": 11,
+    "tipo": "RECITAL",
+    "nombre": "Coldplay",
+    "lugar": "Estadio unico de la plata",
+    "precio": 4000,
+    "stockEntradas": 250,
+    "imagen": "https://res.cloudinary.com/togno43/image/upload/v1653921726/togno43/1626_1_07072017174238_i283gc.jpg"
+  },
+  {
+    "id": 12,
+    "tipo": "PELICULA",
+    "nombre": "Rápido y Furioso 9",
+    "lugar": "Cinema City",
+    "precio": 800,
+    "stockEntradas": 300,
+    "imagen": "https://res.cloudinary.com/togno43/image/upload/v1653921794/togno43/64974_yl8wx8.jpg"
+  }
+]
